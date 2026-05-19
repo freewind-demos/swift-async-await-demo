@@ -1,2 +1,0 @@
-Target dependency graph (1 target)
-Target 'swift_async_await_demo' in project 'swift_async_await_demo' (no dependencies)
